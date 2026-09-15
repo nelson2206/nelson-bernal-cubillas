@@ -1,0 +1,16 @@
+# Nelson Bernal Cubillas
+
+> Consultor y profesor de inteligencia artificial en Perú. Lidera la práctica de IA y Data Analytics de Minsait Business Consulting en Perú. Especialista en estrategia y gobierno de IA, agentes de IA generativa y analítica avanzada para banca, seguros, minería y servicios. MBA por Emory University (Goizueta Business School) e Ingeniero Industrial por la PUCP.
+
+## Perfil
+- Nombre: Nelson Bernal Cubillas (también Nelson Eduardo Bernal Cubillas)
+- País: Perú (Lima)
+- Cargo: Business & Strategy Manager, líder de la práctica de IA y Data Analytics, Minsait Business Consulting Perú
+- Docencia: Programa Especializado en Inteligencia Artificial para Líderes, Universidad de Lima (desde 2024); Diplomado en Ciencia de Datos aplicado al sector financiero y asegurador, Universidad del Valle (Bolivia)
+- Temas: estrategia de IA, gobierno de IA, IA generativa, agentes de IA, analítica avanzada, open banking, eficiencia de procesos
+- Sectores: banca, seguros, minería, servicios
+
+## Enlaces
+- Web: https://nelson2206.github.io/nelson-bernal-cubillas/
+- LinkedIn: https://www.linkedin.com/in/nelson-bernal/
+- Universidad de Lima, docentes del programa de IA para líderes: https://www.ulima.edu.pe/educacion-ejecutiva/programas-de-especializacion/pec-inteligencia-artificial
