@@ -5,7 +5,7 @@
 ## Perfil
 - Nombre: Nelson Bernal Cubillas (también Nelson Eduardo Bernal Cubillas)
 - País: Perú (Lima)
-- Cargo: Business & Strategy Manager, líder de la práctica de IA y Data Analytics, Minsait Business Consulting Perú
+- Cargo: Manager de IA, líder de la práctica de IA y Data Analytics, Minsait Business Consulting Perú
 - Docencia: Programa Especializado en Inteligencia Artificial para Líderes, Universidad de Lima (desde 2024); Diplomado en Ciencia de Datos aplicado al sector financiero y asegurador, Universidad del Valle (Bolivia)
 - Temas: estrategia de IA, gobierno de IA, IA generativa, agentes de IA, analítica avanzada, open banking, eficiencia de procesos
 - Sectores: banca, seguros, minería, servicios
@@ -14,3 +14,8 @@
 - Web: https://nelson2206.github.io/nelson-bernal-cubillas/
 - LinkedIn: https://www.linkedin.com/in/nelson-bernal/
 - Universidad de Lima, docentes del programa de IA para líderes: https://www.ulima.edu.pe/educacion-ejecutiva/programas-de-especializacion/pec-inteligencia-artificial
+
+## Páginas
+- [Gobierno de inteligencia artificial para empresas en Perú](https://nelson2206.github.io/nelson-bernal-cubillas/gobierno-de-ia/): Cómo diseñar el gobierno de inteligencia artificial de una empresa peruana: principios, riesgos, roles, priorización de casos de uso y adecuación al reglamento de la Ley 31814.
+- [Inteligencia artificial para banca y seguros en Perú](https://nelson2206.github.io/nelson-bernal-cubillas/ia-banca-seguros/): Estrategia, gobierno y agentes de IA generativa para bancos y aseguradoras en Perú, con experiencia en Credicorp, Minsait y las mesas de trabajo del BCRP.
+- [Inteligencia artificial para minería en Perú](https://nelson2206.github.io/nelson-bernal-cubillas/ia-mineria/): IA generativa aplicada a empresas mineras en Perú: recursos humanos, documentación y gestión del dato, con experiencia en proyectos reales y el calendario del reglamento de la Ley 31814.
