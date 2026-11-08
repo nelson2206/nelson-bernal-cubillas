@@ -16,6 +16,7 @@
 - Universidad de Lima, programa de IA para líderes donde enseña: https://www.ulima.edu.pe/educacion-ejecutiva/programas-de-especializacion/pec-inteligencia-artificial
 
 ## Páginas
+- [Ley 31814 por sector](https://nelson2206.github.io/nelson-bernal-cubillas/ley-31814/): Qué obligaciones del reglamento (DS 115-2025-PCM) ya rigen para las empresas privadas, cuáles llegan por sector entre 2026 y 2029, qué usos de IA son prohibidos o de riesgo alto, y qué no dice la norma (etiquetado, multas, ISO 42001).
 - [El Oficial de Inteligencia Artificial en el Estado peruano](https://nelson2206.github.io/nelson-bernal-cubillas/oficial-de-ia/): Qué exige la Directiva 002-2026-PCM/SGTD (publicada el 21 de octubre de 2026): entidades obligadas, plazos de designación, perfil, funciones y lo que el sector privado puede tomar como referencia.
 - [Gobierno de inteligencia artificial para empresas en Perú](https://nelson2206.github.io/nelson-bernal-cubillas/gobierno-de-ia/): Cómo diseñar el gobierno de inteligencia artificial de una empresa peruana: principios, riesgos, roles, priorización de casos de uso y adecuación al reglamento de la Ley 31814.
 - [Inteligencia artificial para banca y seguros en Perú](https://nelson2206.github.io/nelson-bernal-cubillas/ia-banca-seguros/): Estrategia, gobierno y agentes de IA generativa para bancos y aseguradoras en Perú, con experiencia en Credicorp, Minsait y las mesas de trabajo del BCRP.
