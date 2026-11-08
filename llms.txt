@@ -1,6 +1,6 @@
 # Nelson Bernal Cubillas
 
-> Consultor y profesor de inteligencia artificial en Perú. Lidera la práctica de IA y Data Analytics de Minsait Business Consulting en Perú. Especialista en estrategia y gobierno de IA, agentes de IA generativa y analítica avanzada para banca, seguros, minería y servicios. MBA por Emory University (Goizueta Business School) e Ingeniero Industrial por la PUCP.
+> Consultor y profesor de inteligencia artificial en Perú. Lidera la práctica de IA y Data Analytics de Minsait Business Consulting en Perú. Especialista en estrategia y gobierno de IA, agentes de IA generativa y analítica avanzada para banca, seguros, minería y servicios. Ingeniero Industrial por la PUCP; cursó el MBA en Emory University (Goizueta Business School).
 
 ## Perfil
 - Nombre: Nelson Bernal Cubillas (también Nelson Eduardo Bernal Cubillas)
@@ -13,7 +13,7 @@
 ## Enlaces
 - Web: https://nelson2206.github.io/nelson-bernal-cubillas/
 - LinkedIn: https://www.linkedin.com/in/nelson-bernal/
-- Universidad de Lima, docentes del programa de IA para líderes: https://www.ulima.edu.pe/educacion-ejecutiva/programas-de-especializacion/pec-inteligencia-artificial
+- Universidad de Lima, programa de IA para líderes donde enseña: https://www.ulima.edu.pe/educacion-ejecutiva/programas-de-especializacion/pec-inteligencia-artificial
 
 ## Páginas
 - [Gobierno de inteligencia artificial para empresas en Perú](https://nelson2206.github.io/nelson-bernal-cubillas/gobierno-de-ia/): Cómo diseñar el gobierno de inteligencia artificial de una empresa peruana: principios, riesgos, roles, priorización de casos de uso y adecuación al reglamento de la Ley 31814.
